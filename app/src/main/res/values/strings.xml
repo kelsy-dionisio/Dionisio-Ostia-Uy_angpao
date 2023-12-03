@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">angpao</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select Ninong</string>
+
+
+    <string name="facebook_app_id">361019783270663</string>
+    <string name="fb_login_protocol_scheme">fb361019783270663</string>
+    <string name="facebook_client_token">b74f3b320d025c5a38eeb5f2d7714fb5</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Angpao" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/red</item>
+    </style>
+
+    <style name="Theme.Angpao" parent="Base.Theme.Angpao">
+<!--        <item name="itemTextAppearanceActive">@color/yellow</item>-->
+            <item name="android:textColor">@color/black</item>
+            <item name="colorAccent">@color/red</item>
+    </style>
+
+    <style name="Theme.DialogTheme" parent="Theme.Material3.DayNight.Dialog">
+
+        <item name="colorAccent">@color/red</item>
+    </style>
+
+    <color name="ucrop_color_toolbar">@color/white</color>
+    <color name="ucrop_color_statusbar">@color/white</color>
+    <color name="ucrop_color_widget_active">@color/white</color>
+</resources>

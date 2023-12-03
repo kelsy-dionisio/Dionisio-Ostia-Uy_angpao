@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/homeBtn"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Ninong"
+        android:icon="@drawable/baseline_people_24"
+        android:id="@+id/ninongBtn"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="History"
+        android:icon="@drawable/baseline_history_24"
+        android:id="@+id/historyBtn"/>
+</menu>
